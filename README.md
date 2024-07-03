@@ -31,8 +31,8 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://saviourjr.github.io/Sign-Up/)
+- Solution URL: [solution URL here](https://github.com/Saviourjr/Sign-Up)
+- Live Site URL: [live site URL here](https://saviourjr.github.io/Sign-Up/)
 
 ## My process
 
