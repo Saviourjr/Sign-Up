@@ -412,9 +412,9 @@ span{
 	border-radius: 5px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 	overflow: hidden;
-	width: 235px;
+	width: 375px;
 	max-width: 100%;
-    height: 423px;
+    height: 100vh;
 	display: inline-block;
 	justify-content: center;
 	align-items: center;
