@@ -370,13 +370,13 @@ cursor: pointer;
 }
 /*MOBILE DESIGN*/
 @media  screen and (max-width: 375px) {
-	body { width: 375px}
+	
 	.con{
     display: inline-block;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	min-width: 390px;
+	max-width: 390px;
 }
 .btn {background-color: #8e44ad;
 	border: 2px solid #8e44ad;
