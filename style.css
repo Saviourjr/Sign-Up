@@ -407,7 +407,7 @@ body {
   font-weight: 400;
   font-style: normal;
   box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.0908818);
- width: 250px;
+ width: 365px;
 
 }         
 span{
@@ -426,11 +426,9 @@ span{
 	border-radius: 5px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 	overflow: hidden;
-	width: 235px;
-    height: 273px;
-	display: inline-block;
-	justify-content: center;
-	align-items: center;
+	width: 365px;
+	max-width: 100%;
+    height: 100vh;
 }
 h5{
     color: hsl(248, 32%, 49%) ;
