@@ -41,12 +41,26 @@ span{
 
 }
 
-.con{
+.con {
+	display: inline;
+	font-size: 14px;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	max-width: 100%;
+	text-align: center;
+}
+@media  screen and (min-width: 700px) {.con{
     display: grid;
     grid-template-columns: 1fr 1fr;
 height: 100vh;
 justify-content: center;
 align-items: center;
+text-align: start;
+}
+h1 {
+	font-size: 3em;
+}
 }
 .container {
 	background-color: #fff;
