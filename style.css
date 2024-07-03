@@ -370,6 +370,7 @@ cursor: pointer;
 }
 /*MOBILE DESIGN*/
 @media  screen and (max-width: 375px) {
+	body { width: 375px}
 	.con{
     display: inline-block;
 	justify-content: center;
